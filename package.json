@@ -1,0 +1,26 @@
+{
+  "name": "@eternalrival/prettier-config",
+  "version": "0.1.2",
+  "description": "shared prettier config",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier config"
+  ],
+  "author": "eternalrival",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EternalRival/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EternalRival/prettier-config/issues"
+  },
+  "homepage": "https://github.com/EternalRival/prettier-config#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
